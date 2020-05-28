@@ -1,25 +1,29 @@
 {
-	"name":"#Pagina de Prueba",
-	"short_name":"#Pagina de Prueba",
-	"description":"Bienvenido a la Pagina de Prueba para Web Progresiva",
-	"background_color":"#826AA3",
-	"theme_color":"#000000",
-	"orientation":"portrait",
-	"display":"standalone",
-	"start_url": "./?utm_source=web_app_manifest",
-	"scope": "./",
-	"lang":"es-MX",
-	"icons":[
-		{
-			"src":"../img/favicon_16.png",
-			"sizes":"16x16",
-			"type":"image/png"
-		},
-		{
-			"src":"../img/favicon_96.png",
-			"sizes":"96x96",
-			"type":"image/png"
-		}
-		
-	]
+  "name": "#Prueba de Pagina",
+  "short_name": "#ProgramadorFitness",
+  "description": "Bienvenidos a la pagina de prueba",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
 }
