@@ -1,7 +1,7 @@
 {
-  "name": "#Prueba de Pagina",
-  "short_name": "#ProgramadorFitness",
-  "description": "Bienvenidos a la pagina de prueba",
+  "name": "Pagina Prueba",
+  "short_name": "#PPagina Prueba",
+  "description": "Pagina Prueba",
   "background_color": "#2B2B2B",
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
@@ -15,6 +15,7 @@
       "sizes": "96x96",
       "type": "image/png"
     },
+    
     {
       "src": "./img/icon_32.png",
       "sizes": "32x32",
